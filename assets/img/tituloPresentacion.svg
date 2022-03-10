@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="68.6px" width="606.85px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, -21.8, 2.3)">
+    <use height="68.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 21.8, -2.3)" width="606.85" xlink:href="#shape0"/>
+    <use height="25.6" transform="matrix(1.0, 0.0, 0.0, 1.0, 105.1, 25.35)" width="426.1" xlink:href="#text0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, -21.8, 2.3)">
+      <path d="M618.3 28.9 L32.15 28.9 Q29.55 28.9 26.95 27.6 21.8 25.0 21.8 18.55 L21.8 8.05 Q21.8 5.45 23.1 2.85 25.7 -2.3 32.15 -2.3 L618.3 -2.3 619.95 -2.15 Q621.9 -1.85 623.5 -1.0 628.65 1.55 628.65 8.05 L628.65 18.55 Q628.65 21.15 627.35 23.7 624.75 28.9 618.3 28.9" fill="#146b1d" fill-rule="evenodd" stroke="none"/>
+      <path d="M599.4 42.05 Q596.8 47.2 590.35 47.2 L60.1 47.2 Q57.5 47.2 54.95 45.95 49.75 43.35 49.75 36.9 L49.75 13.15 Q49.75 10.55 51.05 7.95 53.65 2.8 60.1 2.8 L590.35 2.8 592.0 2.95 Q593.9 3.25 595.5 4.1 600.7 6.7 600.7 13.15 L600.7 36.9 Q600.7 39.45 599.4 42.05" fill="#98bf13" fill-rule="evenodd" stroke="none"/>
+      <path d="M582.65 17.85 L582.65 56.35 Q582.65 66.3 569.1 66.3 L79.4 66.3 Q65.9 66.3 65.9 56.35 L65.9 17.85 Q65.9 7.95 79.4 7.95 L569.1 7.95 Q582.65 7.95 582.65 17.85" fill="#00a13a" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="text0" transform="matrix(1.0, 0.0, 0.0, 1.0, 141.25, -6.6)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, -143.3, 0.0)">
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 0.0, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_C0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 20.75, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_I0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 28.45, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_E0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 49.75, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_N0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 72.05, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_T0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 88.75, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF__0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 98.7, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_F0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 119.8, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_I0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 127.5, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_C0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 148.25, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_O0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 170.1, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_S0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 201.45, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_C0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 222.2, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_O0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 244.05, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_L0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 262.75, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_O0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 284.6, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_M0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 314.0, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_B0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 336.25, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_I0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 343.95, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_A0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 366.15, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_N0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 388.45, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_O0"/>
+        <use fill="#ffffff" height="25.6" transform="matrix(0.0371, 0.0, 0.0, 0.0371, 410.3, 31.0)" width="426.1" xlink:href="#font_Sony_Sketch_EF_S0"/>
+      </g>
+    </g>
+    <g id="font_Sony_Sketch_EF_C0">
+      <path d="M499.5 -427.5 L499.5 -500.5 213.5 -500.5 Q132.0 -500.5 96.0 -477.5 54.0 -451.0 54.0 -389.0 L54.0 -112.5 Q54.0 -59.5 93.5 -29.5 133.0 0.0 205.5 0.0 L498.5 0.0 498.5 -73.0 242.5 -73.0 Q193.5 -73.0 173.5 -87.0 153.5 -101.0 153.5 -136.5 L153.5 -373.0 Q153.5 -400.5 176.0 -416.0 194.5 -427.5 237.5 -427.5 L499.5 -427.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_I0">
+      <path d="M153.5 0.0 L153.5 -501.5 54.0 -501.5 54.0 0.0 153.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_E0">
+      <path d="M478.0 -213.5 L478.0 -285.5 153.5 -285.5 153.5 -371.0 Q153.5 -426.0 239.5 -426.0 L497.5 -426.0 497.5 -499.0 204.5 -499.0 Q134.0 -499.0 94.0 -469.0 54.0 -439.5 54.0 -387.5 L54.0 -106.0 Q54.0 -54.0 99.0 -25.5 140.0 0.0 213.5 0.0 L497.5 0.0 497.5 -73.0 240.5 -73.0 Q153.5 -73.0 153.5 -129.0 L153.5 -213.5 478.0 -213.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_N0">
+      <path d="M546.5 -60.0 L546.5 -495.5 451.5 -495.5 451.5 -92.0 222.0 -444.0 Q201.5 -476.0 191.0 -484.5 172.0 -500.0 135.0 -500.0 54.0 -500.0 54.0 -427.0 L54.0 1.0 149.0 1.0 149.0 -401.0 380.5 -48.5 Q402.0 -15.0 410.5 -8.0 430.0 8.0 465.5 8.0 503.5 8.0 526.0 -13.0 546.5 -31.5 546.5 -60.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_T0">
+      <path d="M444.5 -428.5 L444.5 -501.5 6.0 -501.5 6.0 -428.5 175.0 -428.5 175.0 0.0 274.5 0.0 274.5 -428.5 444.5 -428.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF__0">
+      <path d="M237.5 -625.0 L147.0 -625.0 68.0 -550.5 113.0 -550.5 237.5 -625.0 M180.0 0.0 L180.0 -499.0 88.0 -499.0 88.0 0.0 180.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_F0">
+      <path d="M498.5 -213.0 L498.5 -285.0 153.5 -285.0 153.5 -374.5 Q153.5 -426.0 236.5 -426.0 L498.5 -426.0 498.5 -499.0 209.5 -499.0 Q137.0 -499.0 100.0 -476.0 54.0 -446.0 54.0 -397.5 L54.0 0.0 153.5 0.0 153.5 -213.0 498.5 -213.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_O0">
+      <path d="M435.0 -131.5 L435.0 -131.5 Q435.0 -99.0 414.0 -86.0 393.0 -73.0 347.0 -73.0 L242.5 -73.0 Q194.5 -73.0 176.0 -86.0 153.5 -102.5 153.5 -133.5 L153.5 -364.5 Q153.5 -399.5 174.0 -413.0 194.5 -427.0 242.5 -427.0 L347.0 -427.0 Q394.0 -427.0 414.5 -413.0 435.0 -399.5 435.0 -364.5 L435.0 -131.5 M533.0 -113.5 L533.0 -385.5 Q533.0 -500.0 370.5 -500.0 L219.0 -500.0 Q140.0 -500.0 102.0 -474.0 54.0 -442.5 54.0 -385.5 L54.0 -112.5 Q54.0 -55.0 101.0 -25.0 140.0 0.0 219.0 0.0 L369.5 0.0 Q533.0 0.0 533.0 -113.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_S0">
+      <path d="M480.0 -427.0 L480.0 -500.0 190.0 -500.0 Q123.5 -500.0 88.5 -478.0 38.5 -447.0 38.5 -394.5 L38.5 -316.5 Q38.5 -269.0 84.5 -241.5 126.5 -216.5 192.0 -216.5 L297.5 -216.5 Q380.5 -216.5 380.5 -165.5 380.5 -111.0 373.5 -98.0 358.0 -73.0 294.5 -73.0 L39.5 -73.0 39.5 0.0 324.0 0.0 Q396.0 0.0 437.5 -27.5 479.0 -55.0 479.0 -106.5 L479.0 -185.5 Q479.0 -234.5 438.5 -261.5 398.0 -288.5 330.5 -288.5 L225.0 -288.5 Q181.0 -288.5 161.5 -300.0 138.0 -314.5 138.0 -340.5 138.0 -390.0 147.0 -404.0 162.5 -427.0 225.0 -427.0 L480.0 -427.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_L0">
+      <path d="M498.5 0.0 L498.5 -72.5 257.0 -72.5 Q196.5 -72.5 178.0 -84.0 153.5 -99.0 153.5 -137.5 L153.5 -500.5 54.0 -500.5 54.0 -120.0 Q54.0 -53.5 100.5 -26.5 147.0 0.0 234.0 0.0 L498.5 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_M0">
+      <path d="M738.0 2.5 L738.0 -431.5 Q738.0 -461.5 716.0 -480.5 694.0 -500.0 653.0 -500.0 594.5 -500.0 571.0 -453.0 L395.0 -98.0 222.0 -452.5 Q199.5 -499.0 139.0 -499.0 99.0 -499.0 76.5 -480.0 54.0 -461.5 54.0 -433.0 L54.0 2.5 149.0 2.5 149.0 -391.0 328.5 -37.5 Q340.5 -14.0 351.0 -4.0 368.5 11.0 396.0 11.0 442.0 11.0 467.5 -40.5 L643.0 -391.0 643.0 2.5 738.0 2.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_B0">
+      <path d="M444.0 -127.5 L444.0 -127.5 Q444.0 -72.5 367.5 -72.5 L153.5 -72.5 153.5 -213.5 367.5 -213.5 Q444.0 -213.5 444.0 -161.0 L444.0 -127.5 M445.0 -337.5 L445.0 -337.5 Q445.0 -286.0 366.5 -286.0 L154.5 -286.0 154.5 -428.5 363.0 -428.5 Q445.0 -428.5 445.0 -375.0 L445.0 -337.5 M543.5 -114.5 L543.5 -114.5 Q543.5 -167.5 541.5 -178.5 535.5 -218.5 508.5 -235.5 487.0 -245.0 476.0 -250.0 518.0 -267.5 531.0 -291.0 542.5 -309.0 542.5 -346.0 L542.5 -387.0 Q542.5 -500.5 397.0 -500.5 L54.0 -500.5 54.0 0.0 397.0 0.0 Q468.5 0.0 507.5 -31.5 543.5 -61.0 543.5 -114.5" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_Sony_Sketch_EF_A0">
+      <path d="M402.5 -191.0 L195.5 -191.0 294.0 -413.5 402.5 -191.0 M600.0 0.0 L378.0 -454.5 Q355.5 -499.5 299.0 -499.5 242.5 -499.5 220.0 -454.5 L-2.0 0.0 104.5 0.0 164.0 -122.5 434.0 -122.5 493.5 0.0 600.0 0.0" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cientificos colombianos</title>
+    <link rel="stylesheet" type="text/css" href="./src/animate.min.css">
+    <link rel="preload" href="styles.css" as="styles">
+    <link rel="preload" href="script.js" as="script">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    <script src="./src/gsap.min.js" type="text/javascript"></script>
+</head>
+
+<body onload="init()">
+    <div style="position: absolute;top: 0px;z-index: 1;">
+        <img src="./assets/Img/logo.png" alt="logo: escuela nueva">
+    </div>
+    <div class="tituloPresentacion ">
+        <img src="./assets/img/tituloPresentacion.svg" class="responsive" alt="Cientificos colombianos">
+    </div>
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <!--  <span class="close">&times;</span> -->
+
+        </div>
+
+    </div>
+    <div class="contendor-bienvenida">
+        <div class="bienvenida" >
+            <div  class="texto-bienvenida">
+                <p>¿Sabías que muchos de los cientificos reconocidos a nivel mundial son colombianos?<br><br>
+                Conoce algo sobre sus vidas.</p>
+
+            </div>
+            <div class="btn-inicio-external" onclick="cargarActividad()">
+                <div class="btn-inicio">
+
+                </div>
+            </div>
+        </div>
+        <div class="contenido-actividad-bienvenida">
+            <div class="contenedor-actividad">
+                <div class="contenedor-imagen-c1" onclick=" animarBotonClick(0)">
+                    <p>ADRIANA OCAMPO</p>
+                    <div class="c-1">
+                        <div class="image-c-1">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c2" onclick=" animarBotonClick(1)">
+                    <p>EMILIO YUNIS</p>
+                    <div class="c-2">
+                        <div class="image-c-2">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c3" onclick=" animarBotonClick(2)">
+                    <p>JORGE REYNOLDS</p>
+                    <div class="c-3">
+                        <div class="image-c-3">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c4" onclick=" animarBotonClick(3)">
+                    <p>SALOMON HAKIM</p>
+                    <div class="c-4">
+                        <div class="image-c-4">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c5" onclick=" animarBotonClick(4)">
+                    <p>NUBIA MUÑOZ</p>
+                    <div class="c-5">
+                        <div class="image-c-5">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c6" onclick=" animarBotonClick(5)">
+                    <p>RODOLFO LLINAS</p>
+                    <div class="c-6">
+                        <div class="image-c-6">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c7" onclick=" animarBotonClick(6)">
+                    <p>RAÚL CUERO</p>
+                    <div class="c-7">
+                        <div class="image-c-7">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c8" onclick=" animarBotonClick(7)">
+                    <p>MANUEL PATARROYO</p>
+                    <div class="c-8">
+                        <div class="image-c-8">
+
+                        </div>
+                    </div>
+                </div>
+                <div class="contenedor-imagen-c9" onclick=" animarBotonClick(8)">
+                    <p>ANGELA RESTREPO</p>
+                    <div class="c-9">
+                        <div class="image-c-9">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+       
+    </div>
+    <div>
+        <div class="texto-imagenes animate__animated animate__jello animate__slow">
+            <div class="texto-descripcion">
+
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
